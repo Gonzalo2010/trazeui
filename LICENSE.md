@@ -158,6 +158,7 @@ Cuando la aceptación se realice electrónicamente, el canal habilitado deberá 
 
 **Titular:** Gonzalo García Aranda  
 **Domicilio o dirección de establecimiento:** Calle Don Cristian 19, Málaga, España
+
 **NIF:** 08002374F  
 **Contacto legal:** [gonzalogarciaaranda10@gmail.com](mailto:gonzalogarciaaranda10@gmail.com)  
 **Sitio web:** [https://trazeui.com](https://trazeui.com)  
